@@ -12,7 +12,7 @@
 
 ## Planned Features
 - Local Calendar View
-- Set Deadlines (and percentage)
+- Set Deadlines (with progress percentage)
 - Highlight Task with Least-Most Priority
 - Sticky Notes
 - Text Editor
