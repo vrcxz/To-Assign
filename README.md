@@ -4,6 +4,7 @@
 
 # To-Assign (WIP)
 ![status](https://img.shields.io/badge/status-work--in--progress-red)
+
 **To-Assign** is a console-based TO-DO task application that uses SQLite DB to store data for managing your school works which includes subject assignments/tasks lister, setting event deadlines, taking notes, practicing with flashcard quizzes and more!
 
 ---
