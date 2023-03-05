@@ -9,7 +9,7 @@
 ---
 
 
-## Features
+## Planned Features
 - Local Calendar View
 - Set Deadlines (and percentage)
 - Highlight Task with Least-Most Priority
