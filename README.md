@@ -1,2 +1,23 @@
-# To-Assign
-A general schoolwork To-Do list console application.
+![Cover](https://github.com/vonnogadas/To-Assign/blob/fd299e298889ec4d61fdae39c5839d0c929ebd87/res/Untitled140.png)
+
+
+
+# To-Assign (WIP)
+**To-Assign** is a console-based TO-DO task application that uses SQLite DB to store data for managing your school works which includes subject assignments/tasks lister, setting event deadlines, taking notes, practicing with flashcard quizzes and more!
+
+
+---
+
+
+## Features
+- Local Calendar View
+- Set Deadlines (and percentage)
+- Highlight Task with Least-Most Priority
+- Sticky Notes
+- Text Editor
+- Flashcards
+- Local English Dictionary 
+- Progress Report
+- Minimal Calculator
+- Export tasks to TXT, CSV, SQL DB, and JSON.
+- Still working on more!
