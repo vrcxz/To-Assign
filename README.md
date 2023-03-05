@@ -14,8 +14,7 @@
 - Local Calendar View
 - Set Deadlines (with progress percentage)
 - Highlight Task with Least-Most Priority
-- Sticky Notes
-- Text Editor
+- Text Editor for Notes
 - Flashcards
 - Local English Dictionary 
 - Progress Report
