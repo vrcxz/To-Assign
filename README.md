@@ -17,7 +17,7 @@
 - Text Editor for Notes
 - Flashcards
 - Local English Dictionary 
-- Progress Report
+- View Progress Report
 - Minimal Calculator
 - Export tasks to TXT, CSV, SQL DB, and JSON.
 - Still working on more!
