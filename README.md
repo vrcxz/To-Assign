@@ -17,7 +17,7 @@
 - Notes
 - Flashcards
 - Local English Dictionary 
-- View Progress Report
+- View Progress Report (still in-progress)
 - Minimal Calculator
-- Export tasks to TXT, CSV, SQL DB, and JSON. (still in-progress)
+- Export tasks to TXT, CSV, SQL DB, and JSON (still in-progress)
 - Still working on more!
