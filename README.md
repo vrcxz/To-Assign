@@ -10,7 +10,7 @@
 ---
 
 
-## Planned Features
+## Features
 - Local Calendar View
 - Set Deadlines (with progress percentage)
 - Highlight Task with Least-Most Priority
@@ -19,5 +19,5 @@
 - Local English Dictionary 
 - View Progress Report
 - Minimal Calculator
-- Export tasks to TXT, CSV, SQL DB, and JSON.
+- Export tasks to TXT, CSV, SQL DB, and JSON. (still in-progress)
 - Still working on more!
