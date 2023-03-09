@@ -16,7 +16,7 @@
 - Highlight Task with Least-Most Priority
 - Notes
 - Flashcards
-- Local English Dictionary (dataset by [mathewreagan](https://github.com/matthewreagan/WebstersEnglishDictionary))
+- Local English Dictionary (JSON dataset by [mathewreagan](https://github.com/matthewreagan/WebstersEnglishDictionary))
 - View Progress Report (still in-progress)
 - Minimal Calculator
 - Export tasks to TXT, CSV, SQL DB, and JSON (still in-progress)
